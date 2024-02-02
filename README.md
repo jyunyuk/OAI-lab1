@@ -7,7 +7,7 @@ Follow these steps to set up the environment for the MLflow demo on your local m
 
 1. **Open a Terminal** under your desired folder where you want to clone the repository.
 
-2. **Clone the Repository:** Use the following command to clone the repository to your local machine. Replace `url` with the actual repository URL.
+2. **Clone the Repository:** Use the following command to clone the repository to your local machine. 
     ```
     git clone https://github.com/jyunyuk/OAI-lab1.git
     ```
