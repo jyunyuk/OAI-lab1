@@ -33,6 +33,7 @@ Follow these steps to set up the environment for the MLflow demo on your local m
 
 3. **Install Packages:** With the virtual environment activated, use `pip` to install the packages.
     ```
+    python -m pip install --upgrade pip
     pip install -r requirements.txt
     ```
 
